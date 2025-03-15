@@ -197,7 +197,6 @@ def run_test_for_challenge(challenge, paths, function_name, test_cases, max_scor
 
 
 def update_excel(results, excel_file="code_clash_result2.xlsx"):
-    # ... (same as original) ...
     """
         Update an Excel sheet with usernames and their scores.
     """
